@@ -1,0 +1,16 @@
+.margin{
+    margin-top: 100px;
+}
+.margin-2{
+    margin-top: 148px;
+    margin-left:40px;
+}
+
+.fixed-top-2 {
+    position: fixed;
+    top: 0;
+    z-index: 1030;
+}
+.btn{
+    cursor: pointer;
+}
